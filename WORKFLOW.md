@@ -258,4 +258,3 @@ CampusFind/
    git tag -a v1.0.0 -m "Initial Release v1.0.0"
    git push origin v1.0.0
    ```
-3. Upload `app-debug.apk` to **GitHub Releases** under the `v1.0.0` tag.
