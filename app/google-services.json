@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301850051027",
+    "project_id": "campusfind-db",
+    "storage_bucket": "campusfind-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301850051027:android:b8b50b40096104abdcef26",
+        "android_client_info": {
+          "package_name": "com.sezanx.campusfind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDcACRY884tDYKonhu5TvDpTaLnVAwaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
